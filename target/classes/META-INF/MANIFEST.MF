@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: RequestReplyKafka
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: B0203873
+Implementation-Vendor-Id: com.gauravg
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/RequestReplyKafka
+Created-By: Maven Integration for Eclipse
+

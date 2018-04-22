@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.gauravg.demo.RequestReplyKafkaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 22.134 s <<< FAILURE! - in com.gauravg.demo.RequestReplyKafkaApplicationTests
+contextLoads(com.gauravg.demo.RequestReplyKafkaApplicationTests)  Time elapsed: 0.017 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: java.lang.IllegalStateException: a KafkaTemplate is required to support replies
+
